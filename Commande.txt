@@ -1,0 +1,8 @@
+git branch "nom" # Pour créer une branche de projet
+git chekcout "nom de branche" # pour changer de branche à envoyer le projet
+git pull origin "nom de branche" #pour récupérer le contenu d'une certaine branche
+git push # pour ajouter sur une certaine branche le contenu local
+git commit -m "nom de la modification" # Pour vérifier les modifications par rapport au dernier commit
+git add . # Ajouter localement les nouveaux fichier pour ensuite "commit"
+git clone # Copier le projet d'une branche
+cd # pour définir le chemin local
